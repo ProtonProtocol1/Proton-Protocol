@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Proton Protocol](README.md)
+* [📍 Proton Protocol](README.md)
 
 ## Welcome to Proton Protocol
 
@@ -14,10 +14,14 @@
 * [👮♀ Audit](security/audit.md)
 * [👮♂ SAFU](security/safu.md)
 
+## Token Proton&#x20;
+
+* [Page 2](token-proton/page-2.md)
+
 ## Social Media
 
-* [Page 3](social-media/page-3.md)
+* [🌐 Join our social networks](social-media/join-our-social-networks.md)
 
 ## Support
 
-* [Contacts](support/contacts.md)
+* [☎ Contacts](support/contacts.md)
