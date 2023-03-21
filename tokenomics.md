@@ -5,9 +5,19 @@ coverY: 0
 
 # 🔹 Tokenomics
 
-Total Token Supply: 1,000,000\
+## TOKEN: PROTON
 
+| Description          | Proton Protocol  |
+| -------------------- | ---------------- |
+| Token Name           | Proton Protocol  |
+| Token Symbol         | PROTON           |
+| Token Decimals       |                  |
+| Total Supply         | 1,000,000 PROTON |
+| Tokens for Presale   |                  |
+| Tokens for Liquidity |                  |
+| Soft Cap             |                  |
 
+<table><thead><tr><th>Start and end of sales</th><th data-type="checkbox">Status</th><th>Proton</th></tr></thead><tbody><tr><td>Presale Start Time</td><td>true</td><td></td></tr><tr><td>Presale End Time</td><td>false</td><td></td></tr></tbody></table>
 
 20% Yield Optimizer Protocol🔒
 
@@ -20,8 +30,3 @@ Total Token Supply: 1,000,000\
 5% CEX listing🔒
 
 5% Liquidity Vault🔒
-
-\
-
-
-51% LP and Presale - NO SAFU
