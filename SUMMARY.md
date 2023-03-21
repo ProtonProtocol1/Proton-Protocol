@@ -8,6 +8,7 @@
 * [🔹 Listing](listing.md)
 * [🔹 Heading Proton](heading-proton.md)
 * [🔹 Heading 2 Proton](heading-2-proton.md)
+* [🔹 Staking](staking.md)
 * [🔹 Tokenomics](tokenomics.md)
 * [🔹 Roadmap](welcome-to-proton-protocol/untitled.md)
 * [🔹 Contacts](contacts.md)
