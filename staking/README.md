@@ -8,16 +8,16 @@ coverY: 0
 #### Staking Proton Protocol
 
 * _Staking is the act of holding a cryptocurrency token in a wallet for a certain period of time to earn rewards and support the network's security and operations. In essence, staking is similar to a fixed deposit or savings account in traditional finance, where you lock your funds for a specified period and earn interest on them._
-* _In the context of the PROTON Protocol, staking refers to the process of holding the protocol's native token, XPR, in a wallet to earn staking rewards. By staking XPR, token holders can help secure the PROTON network by participating in the consensus mechanism and verifying transactions. In return for their participation, stakers receive a portion of the block rewards, which are paid out in XPR._
+* _In the context of the Proton Protocol, staking refers to the process of holding the protocol's native token, PROTON, in a wallet to earn staking rewards. By staking PROTON, token holders can help secure the Proton Protocol network by participating in the consensus mechanism and verifying transactions. In return for their participation, stakers receive a portion of the block rewards, which are paid out in PROTON._
 
-#### Some of the benefits of staking with PROTON include:
+#### Some of the benefits of staking with Proton Protocol include:
 
-1. _Passive Income: Staking XPR is a way to earn passive income as you hold the tokens in your wallet._
-2. _Network Security: By staking XPR, you are helping to secure the PROTON network and earn rewards for your contribution._
-3. _Community Participation: Staking allows XPR holders to participate in the governance of the PROTON network, giving them a say in important decisions related to the protocol's future development._
-4. _Incentivization: Staking XPR provides an incentive for users to hold onto their tokens for a longer period, which can contribute to a more stable and reliable ecosystem._
+1. _Passive Income: Staking PROTON is a way to earn passive income as you hold the tokens in your wallet._
+2. _Network Security: By staking PROTON, you are helping to secure the Proton Protocol network and earn rewards for your contribution._
+3. _Community Participation: Staking allows PROTON holders to participate in the governance of the Proton Protocol network, giving them a say in important decisions related to the protocol's future development._
+4. _Incentivization: Staking PROTON provides an incentive for users to hold onto their tokens for a longer period, which can contribute to a more stable and reliable ecosystem._
 
-_The application of staking with PROTON is to encourage network participants to contribute to the security and operation of the protocol, while also providing a mechanism for earning rewards. As more users stake XPR, the network becomes more decentralized and secure, which is crucial for the long-term success of the protocol. Additionally, staking can help to stabilize the price of XPR, as users are incentivized to hold onto their tokens for a longer period._
+_The application of staking with Proton Protocol is to encourage network participants to contribute to the security and operation of the protocol, while also providing a mechanism for earning rewards. As more users stake PROTON, the network becomes more decentralized and secure, which is crucial for the long-term success of the protocol. Additionally, staking can help to stabilize the price of PROTON, as users are incentivized to hold onto their tokens for a longer period._
 
 #### Proton Protocol NFTs and Special NFTs staking
 
