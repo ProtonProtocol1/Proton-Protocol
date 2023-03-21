@@ -1,22 +1,13 @@
 # Table of contents
 
-* [📍 Proton Protocol](README.md)
-
-## Welcome to Proton Protocol
-
-* [Page 1](welcome-to-proton-protocol/page-1.md)
-* [Social Media](welcome-to-proton-protocol/social-media.md)
-* [🔹 Roadmap](welcome-to-proton-protocol/roadmap.md)
-
-## Security
-
-* [👮♂ KYC](security/kyc.md)
-* [👮♀ Audit](security/audit.md)
-* [👮♂ SAFU](security/safu.md)
-
-## Token Proton&#x20;
-
-* [Page 2](token-proton/page-2.md)
+* [🔹 Proton Protocol](README.md)
+* [🔹 Security](security.md)
+* [🔹 Pinksale](pinksale.md)
+* [🔹 Listing](listing.md)
+* [🔹 Roadmap](roadmap.md)
+* [🔹 Tokenomics](tokenomics.md)
+* [🔹 Heading Proton](heading-proton.md)
+* [🔹 Heading 2 Proton](heading-2-proton.md)
 
 ## Social Media
 
