@@ -9,6 +9,8 @@
 * [🔹 Heading Proton](heading-proton.md)
 * [🔹 Heading 2 Proton](heading-2-proton.md)
 * [🔹 Staking](staking.md)
+* [🔹 DAO Governance](dao-governance.md)
+* [🔹 Token Utility](token-utility.md)
 * [🔹 Tokenomics](tokenomics.md)
 * [🔹 Roadmap](welcome-to-proton-protocol/untitled.md)
 * [🔹 Contacts](contacts.md)

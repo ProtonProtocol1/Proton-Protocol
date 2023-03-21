@@ -6,17 +6,23 @@ coverY: 0
 
 # 🔹 Heading 2 Proton
 
-#### Smart Swaps
+#### Smart Swaps&#x20;
 
 * _Smart Swaps are buy or sell orders that automatically execute based on some programmable logic. Smart swap allows for incredible flexibility and modularity with the potential to provide sophisticated trading functionalities found in traditional exchanges (Limit Orders) and more like Dynamic Orders and Algorithmic Orders._
+
+<figure><img src=".gitbook/assets/icon_9.png" alt=""><figcaption></figcaption></figure>
 
 #### Concentrated Liquidity&#x20;
 
 * _Concentrated liquidity permits Liquidity Providers (LPs) to allocate their capital at selected price ranges (PancakeSwap). This unlocks tremendous capital efficiency gains for LPs who can manually adjust their exposure based on their trading strategies. As a result, market makers can earn more rewards with less capital investment and no impermanent loss._
 
+<figure><img src=".gitbook/assets/icon_10.png" alt=""><figcaption></figcaption></figure>
+
 #### Smart Liquidity Vault
 
 * _Proton Protocol has developed an AI-powered Smart Liquidity Management protocol. It is a DeFi yield optimization solution that algorithmically automates trading strategies to maximize users’ APYs while minimizing risk exposure._
+
+<figure><img src=".gitbook/assets/icon_11.png" alt=""><figcaption></figcaption></figure>
 
 #### Auto-Compound
 

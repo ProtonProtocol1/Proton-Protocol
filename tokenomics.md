@@ -5,9 +5,8 @@ coverY: 0
 
 # 🔹 Tokenomics
 
-Total Token Supply: 1,000,000
+Total Token Supply: 1,000,000\
 
-0% tax\
 
 
 20% Yield Optimizer Protocol🔒
