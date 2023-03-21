@@ -16,7 +16,7 @@
 * [🔹 Governance](dao-governance.md)
 * [🔹 Tokenomics](tokenomics.md)
 * [🔹 Roadmap](welcome-to-proton-protocol/untitled.md)
-* [🔹 Contacts](contacts.md)
+* [🔹 Disclaimer](disclaimer.md)
 
 ## Social Media
 
