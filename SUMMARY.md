@@ -11,11 +11,8 @@
 * [🔹 Future of DeFi](future-of-defi.md)
 * [🔹 Overview](overview.md)
 * [🔹 Proton Protocol](proton-protocol-1.md)
+* [🔹 Contacts](contacts.md)
 
 ## Social Media
 
 * [🌐 Join our social networks](social-media/join-our-social-networks.md)
-
-## Support
-
-* [☎ Contacts](support/contacts.md)
