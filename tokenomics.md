@@ -23,16 +23,17 @@ coverY: 0
 
 
 
-| Description                |  %  |
-| -------------------------- | :-: |
-| Yield Optimizer Protocol🔒 | 20% |
-| NFT Stake rewards🔒        | 10% |
-|  Proton Stake rewards 🔒   |  8% |
-| Marketing 🔒               |  5% |
-| Team 🔒                    |  3% |
-| CEX listing🔒              |  7% |
-| Advisor🔒                  |  7% |
-| Presale🔒                  | 40% |
+| Description                 |    %   |
+| --------------------------- | :----: |
+| NFT Stake Rewards🔒         |  3.72% |
+| Tier 1 Marketing🔒          | 4.602% |
+| Proton Stake Rewards 🔒     | 2.976% |
+|  Yield Optimizer Protocol🔒 |  7.44% |
+| Marketing 🔒                |  1.86% |
+| CEX Listing 🔒              |   10%  |
+| Development🔒               | 6.602% |
+| Liquidity🔒                 |  22.8% |
+| Presale🔒                   |   40%  |
 
 
 
