@@ -5,6 +5,8 @@ coverY: 0
 
 # 🔹 Pinksale
 
+{% embed url="https://www.pinksale.finance/launchpad/0x9A685283241656FD705182e61E2866bb0b555442?chain=BSC" %}
+
 <figure><img src=".gitbook/assets/photo_2023-03-20 23.42.12.jpeg" alt=""><figcaption></figcaption></figure>
 
 * _Sales on the Pinksale platform are a crucial element of the Proton Protocol project, as they provide a secure and efficient way for investors to participate in our fundraising efforts. The Pinksale platform offers a range of features and benefits that make it an ideal choice for our sales, including:_

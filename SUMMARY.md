@@ -15,8 +15,8 @@
   * [🔹 NFT Staking](staking/nft-staking.md)
 * [🔹 Governance](dao-governance.md)
 * [🔹 Tokenomics](tokenomics.md)
-* [🔹 Roadmap](welcome-to-proton-protocol/untitled.md)
 * [🔹 Disclaimer](contacts.md)
+* [🔹 Roadmap](welcome-to-proton-protocol/untitled.md)
 
 ## Social Media
 
