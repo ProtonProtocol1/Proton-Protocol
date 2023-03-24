@@ -10,6 +10,16 @@ coverY: 0
 * _Staking is the act of holding a cryptocurrency token in a wallet for a certain period of time to earn rewards and support the network's security and operations. In essence, staking is similar to a fixed deposit or savings account in traditional finance, where you lock your funds for a specified period and earn interest on them._
 * _In the context of the Proton Protocol, staking refers to the process of holding the protocol's native token, PROTON, in a wallet to earn staking rewards. By staking PROTON, token holders can help secure the Proton Protocol network by participating in the consensus mechanism and verifying transactions. In return for their participation, stakers receive a portion of the block rewards, which are paid out in PROTON._
 
+<div>
+
+<figure><img src="../.gitbook/assets/Captura de Tela 2023-03-24 às 08.40.59.png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../.gitbook/assets/Captura de Tela 2023-03-24 às 08.41.31.png" alt=""><figcaption></figcaption></figure>
+
+</div>
+
 #### Some of the benefits of staking with Proton Protocol include:
 
 1. _Passive Income: Staking PROTON is a way to earn passive income as you hold the tokens in your wallet._
@@ -18,6 +28,16 @@ coverY: 0
 4. _Incentivization: Staking PROTON provides an incentive for users to hold onto their tokens for a longer period, which can contribute to a more stable and reliable ecosystem._
 
 _The application of staking with Proton Protocol is to encourage network participants to contribute to the security and operation of the protocol, while also providing a mechanism for earning rewards. As more users stake PROTON, the network becomes more decentralized and secure, which is crucial for the long-term success of the protocol. Additionally, staking can help to stabilize the price of PROTON, as users are incentivized to hold onto their tokens for a longer period._
+
+|       Parity      |     APY     |
+| :---------------: | :---------: |
+|   **BNB - USDT**  |   **53%**   |
+|   **ETH - USDT**  |  **60.81%** |
+|   **DAI - USDC**  |  **16.91%** |
+|   **CAKE - BNB**  |  **45.90%** |
+|  **BNB - PROTON** |  **68.42%** |
+| **USDT - PROTON** | **102.42%** |
+|  **SOL - PROTON** | **102.42%** |
 
 #### Proton Protocol NFTs and Special NFTs staking
 
