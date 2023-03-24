@@ -34,4 +34,6 @@ SAFU&#x20;
 * _The Proton Protocol has already taken significant steps to ensure the security of user funds, including the use of smart contracts and encryption to prevent fraud and protect against attacks. However, obtaining the Consuilt SAFU seal would demonstrate to users and the wider blockchain community that the platform has undergone rigorous security audits and has met the highest standards for user protection._
 * _In addition to providing reassurance to users, obtaining the Consuilt SAFU seal could also help the Proton Protocol to attract new users and investors. As the blockchain industry continues to grow and evolve, security is becoming an increasingly important consideration for users and investors. By obtaining the Consuilt SAFU seal, the Proton Protocol would demonstrate that it is at the forefront of the industry in terms of security and user protection, making it a more attractive option for those looking for a secure and reliable blockchain platform._
 
+<figure><img src=".gitbook/assets/photo_2023-03-24 09.15.04.jpeg" alt=""><figcaption></figcaption></figure>
+
 \
