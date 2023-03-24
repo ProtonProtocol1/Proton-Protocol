@@ -39,6 +39,10 @@ _The application of staking with Proton Protocol is to encourage network partici
 | **USDT - PROTON** | **102.42%** |
 |  **SOL - PROTON** | **102.42%** |
 
+#### More detailed example between BNB - PROTON parities:
+
+<figure><img src="../.gitbook/assets/Captura de Tela 2023-03-24 às 08.48.43.png" alt=""><figcaption></figcaption></figure>
+
 #### Proton Protocol NFTs and Special NFTs staking
 
 * _When creating a staking vault with PROTON tokens, you’ll be able to add APY booster NFTs such as the Special NFTs and Proton NFTs, providing a flat 3% to 5% APY increase up to a year. If you choose the 7 month or 10 month staking vault and use an APY boosting NFT, the NFT will be returned at the end of the staking period, and can be used in a new staking vault for the remainder of the utility._
