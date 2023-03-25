@@ -12,7 +12,7 @@
   * [🔹 All-in-one Solution](heading-proton/all-in-one-solution.md)
 * [🔹 Heading 2 Proton](heading-2-proton.md)
 * [🔹 Staking](staking/README.md)
-  * [🔹 Stake Proton Protocol](https://protonprotocol.finance/stake)
+  * [🔹 Stake Proton Protocol](https://protonprotocol.finance/#/stake)
   * [🔹 NFT Staking](staking/nft-staking.md)
 * [🔹 Governance](dao-governance.md)
 * [🔹 Tokenomics](tokenomics.md)
