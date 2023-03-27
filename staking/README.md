@@ -50,3 +50,26 @@ _The application of staking with Proton Protocol is to encourage network partici
 _For example: User adds a 3% APY Boost NFT in a 10 month staking vault. The user would earn 18% APY for 10 months. At the end, he would be returned the 3% APY Boost NFT with 4 months remaining utility._
 
 * _Only one APY booster NFT is allowed per vault. You can create multiple vaults to fit your needs and stake one APY booster NFT on each vault._
+
+#### Staking Fee Distribution  -Pool Proton
+
+| Description            |  %  |
+| ---------------------- | :-: |
+| Development            |  3% |
+| Reference Gain         |  5% |
+| Investor Gain - Day    |  5% |
+| Investor Gain - Month  | 30% |
+
+{% hint style="warning" %}
+20 days - Investment Period
+{% endhint %}
+
+#### Referral Program
+
+_Proton Protocol offers a referral program that allows users to earn 5% from each successful referral using their referral link. Some benefits of this program include:_
+
+* _**Earn extra money:** With the referral program, users can earn extra money by referring Proton Protocol to their friends and acquaintances. They will receive 5% of the amount invested by users who sign up using their referral link._
+* _**Project growth:** The referral program helps to increase adoption of the Proton Protocol by encouraging users to share the cryptocurrency with others. This can lead to an increase in the token value and overall project success._
+* _**Easy to participate:** The referral program is easy to participate in. Users simply need to sign up for the program and share their referral link with others. There is no cost involved and no need to have advanced technical knowledge in cryptocurrencies._
+
+_**Additional incentives:** Proton Protocol offers other incentives besides the referral program. For example, users can earn rewards for holding their cryptocurrencies in specific wallets, which can incentivize token retention and increase token value stability._

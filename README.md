@@ -21,3 +21,5 @@ coverY: 0
 
 * _Proton Protocol is revolutionizing the DeFi space with its cutting-edge yield optimizer. Our mission is to make DeFi accessible to everyone by providing top-tier automated liquidity management, powered by advanced AI technology._
 * _At Proton Protocol, we are thrilled to introduce our innovative platform, which streamlines yield opportunities in the DeFi ecosystem. Our yield optimizer has been designed to simplify the complexities of navigating various liquidity pools, enabling users to maximize their returns without the hassle._
+
+{% embed url="https://protonprotocol.finance/#/" %}
