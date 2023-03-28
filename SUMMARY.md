@@ -6,6 +6,7 @@
 * [🔹 Security](security.md)
 * [🔹 Pinksale](pinksale.md)
 * [🔹 Listing](listing.md)
+* [🔹 Ongoing Marketing](ongoing-marketing.md)
 * [🔹 Heading Proton](heading-proton.md)
   * [🔹 High returns](heading-proton/high-returns.md)
   * [🔹 Capital Efficient](heading-proton/capital-efficient.md)
